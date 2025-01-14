@@ -1,4 +1,4 @@
-Fathir Alghani Salam 👨‍💻 <br>
+**Fathir Alghani Salam 👨‍💻** <br>
 
  Tech Enthusiast | Problem Solver <br>
 
