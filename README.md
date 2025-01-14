@@ -1,13 +1,21 @@
-## Hi there 👋
+Fathir Alghani Salam 👨‍💻 <br>
 
-halo semuannya kenalin aku **fathir alghani salam**
+ Tech Enthusiast | Problem Solver <br>
 
-saya seorang pelajar SMK jurusan RPL (rekayasa perangkat lunak). <br>
-saya juga memiliki ketertarikan dengan dunia proggramming karna dari proggramming bisa membuat dan membantu banyak hal. <br>
+Seorang siswa SMK jurusan Rekayasa Perangkat Lunak (RPL) yang penuh semangat dan memiliki passion dalam dunia programming. Saya percaya bahwa melalui kode, kita bisa menciptakan solusi yang bermanfaat dan mengubah dunia menjadi lebih baik.
+💡 Ketertarikan <br>
 
-**Hobi** <br>
+Software Development: Eksplorasi berbagai bahasa pemrograman dan teknologi terbaru
+Problem Solving: Menikmati tantangan dalam memecahkan masalah teknis
+Tech Innovation: Selalu antusias mempelajari perkembangan teknologi terkini <br>
 
-- Watching Movie
-- Playing Games
-- Badminton
+🎯 Aktivitas & Hobi <br>
+
+🎬 Movie Enthusiast: Menganalisis plot dan storytelling dari berbagai genre film <br>
+🎮 Gaming: Mengasah kemampuan strategi dan problem-solving melalui video games <br>
+🏸 Badminton: Menjaga kebugaran dan melatih fokus melalui olahraga <br>
+
+🌟 Motto <br>
+
+"Setiap baris kode adalah langkah menuju inovasi masa depan"
 
